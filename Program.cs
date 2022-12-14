@@ -30,7 +30,10 @@ namespace Algorithm
 
                 Console.SetCursorPosition(0, 0);
                 board.Render();
+
+
             }
+            // 커밋 실험
 
         }
     }
